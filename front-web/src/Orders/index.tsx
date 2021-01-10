@@ -51,6 +51,7 @@ function Orders() {
         .catch(() => {
             toast.warning('Erro ao enviar pedido');
         })
+        
     }
 
     return (
