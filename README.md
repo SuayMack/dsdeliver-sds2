@@ -18,8 +18,8 @@ O DS Delivery é um aplicativo de registro e entrega de pedidos, com localizaç�
 
 ## Modelo conceitual
 
-![DS%20Delivery%2045ea73a70b0847d6a8c8a13254a6757d/modelo-conceitual.png](DS%20Delivery%2045ea73a70b0847d6a8c8a13254a6757d/modelo-conceitual.png)
+![https://github.com/SuayMack/dsdeliver-sds2/blob/main/README/modelo-conceitual.png](https://github.com/SuayMack/dsdeliver-sds2/blob/main/README/modelo-conceitual.png)
 
 ## Padrão de camadas adotado
 
-![DS%20Delivery%2045ea73a70b0847d6a8c8a13254a6757d/camadas.png](DS%20Delivery%2045ea73a70b0847d6a8c8a13254a6757d/camadas.png)
+![https://github.com/SuayMack/dsdeliver-sds2/blob/main/README/camadas.png](https://github.com/SuayMack/dsdeliver-sds2/blob/main/README/camadas.png)
