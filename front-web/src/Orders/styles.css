@@ -190,7 +190,7 @@
 }
 
 .order-summary-content {
-    width: calc(70% - 40px);
+    width: calc(75% - 30px);
     display: flex;
     justify-content: space-between;
     background: #FFF;
